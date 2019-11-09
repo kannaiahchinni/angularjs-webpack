@@ -1,0 +1,32 @@
+{
+  "name": "lms-lrs",
+  "version": "1.0.0",
+  "description": "Building LRS for LMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "LMS",
+    "LRS"
+  ],
+  "author": "Karunakar Medamoni <kannaiah.yadav14@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "gulp": "^4.0.2",
+    "jshint": "^2.10.2",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  },
+  "dependencies": {
+    "angular": "^1.7.8",
+    "angular-ui-router": "^1.0.23",
+    "browser-sync": "^2.26.7",
+    "gulp-concat": "^2.6.1",
+    "gulp-environments": "^0.1.3",
+    "gulp-jshint": "^2.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.2"
+  }
+}
